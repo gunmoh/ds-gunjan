@@ -1,1 +1,1 @@
-The idea is to createeee
+The objective of this page is to outline the necessary updates and enhancements to our existing advertising campaign dashboard, specifically focusing on obtaining deeper insights into the age and gender reach of our campaigns.
